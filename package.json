@@ -1,6 +1,6 @@
 {
   "name": "thirsty-thursday",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "thirsty",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,5 @@
     "url": "https://github.com/subclinical/thirsty-thursday/issues"
   },
   "homepage": "https://github.com/subclinical/thirsty-thursday#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
